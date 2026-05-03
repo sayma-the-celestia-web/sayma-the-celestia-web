@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey, i'm sayma 🌌
+  hey, I'm Sayma 🌌
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-### ✦ who i am
+### ✦ who I am
 
 I'm **Sayma Ferdousi Fariha** — a Software Engineering student from Bangladesh, building my way from backend specialist to well-rounded engineer.
 
@@ -37,7 +37,7 @@ Outside of code, I'm a photographer who chases light, an artist breaking through
 
 ---
 
-### ✦ what i build with
+### ✦ what I build with
 
 **solid ground**
 <p>
@@ -60,7 +60,7 @@ Outside of code, I'm a photographer who chases light, an artist breaking through
 
 ---
 
-### ✦ what i'm building right now
+### ✦ what I'm building right now
 
 | project | what it does | stack |
 |--------|-------------|-------|
