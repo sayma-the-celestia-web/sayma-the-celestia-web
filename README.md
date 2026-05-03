@@ -131,7 +131,6 @@ I'm also a photographer who chases light, an artist chipping away at a creative 
 ### 🌍 currently
 
 - 🔭 building full-stack projects to prove range, not just depth
-- 📡 preparing for an **Erasmus Semester Exchange** — open to collabs across borders
 - 🧠 studying system design, DevOps, and AI integration
 - 📸 shooting film and chasing golden hour between commits
 - ✨ making one commit every single day — the streak is the discipline
